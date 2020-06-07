@@ -1,0 +1,3 @@
+rootProject.name = 'aldar-framework'
+include 'aldar-core'
+
